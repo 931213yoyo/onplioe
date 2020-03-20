@@ -1,4 +1,4 @@
-#私密半垢#
+# -*- coding: utf-8 -*-
 from linepy import *
 #from thrift import*
 from thrift.Thrift import *
