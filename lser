@@ -1,4 +1,4 @@
-#------私密半垢------#
+# -*- coding: utf-8 -*-
 import os,sys,time,platform
 def CleanMSG():
     if "Windows" in platform.platform():
